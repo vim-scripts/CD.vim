@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=65
+
+This is a tiny little script to allow the VIM user to CD to whatever directory your buffer currently is in.  So, if you "vim my/dir/deeply/in/src/file.txt" a lot then ":CD" will move VIM into my/dir/deeply/in/src so that you can edit other files easily within the same directory.
+
